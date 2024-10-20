@@ -1,0 +1,1 @@
+Build a complete data science project that predicts real estate prices based on various features (e.g., location, number of bedrooms, square footage). This project will take you through the entire workflow from data collection to deployment and visualization.
