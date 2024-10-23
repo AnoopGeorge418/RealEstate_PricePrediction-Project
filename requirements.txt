@@ -1,13 +1,14 @@
-# numpy
-# pandas
-# matplotlib
-# seaborn
-# plotly
-# scikit-learn
-# beautifulsoup4
-# requests
-# lxml
-# ipykernel
-# selenium
-# webdriver-manager
-Scrapy
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+beautifulsoup4
+requests
+lxml
+ipykernel
+selenium
+webdriver-manager
+scrapy
+scrapy-selenium
